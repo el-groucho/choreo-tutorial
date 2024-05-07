@@ -23,7 +23,7 @@ spec:
   outbound:
       serviceReferences:
       - name: choreo:///follyinc/appointment-management/dzfrug/8b1c3/v1/ORGANIZATION
-        connectionConfig: 01ef0c9d-fd3f-1f2e-b717-f7024ee679ce
+        connectionConfig: 01ef0ca1-ff0b-1b56-b5b2-c6f14ce20cf5
         env:
         to: APPOINTMENT_SERVICE_URL
       - from: ConsumerKey
